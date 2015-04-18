@@ -1,8 +1,10 @@
 # magicmonty.live
 
+**This playground is now deprecated! All work will continue [here](https://github.com/lambdaphonic/live)!**
+
 This is my playground for my Overtone music.
 
-You can listen to "Fibonacci in A Minor" [here](https://soundcloud.com/magicmonty-1/fibonacci-in-a-minor)
+You can listen to "Fibonacci in A Minor" [here](https://soundcloud.com/lambdaphonic/fibonacci-in-a-minor)
 
 ## License
 
